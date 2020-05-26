@@ -1,0 +1,5 @@
+C:\Users\T-Gamer\Desktop\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoAtleta.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.Form1.resources
+C:\Users\T-Gamer\Desktop\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoPessoa.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoAtleta.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\ProjetoPessoaTratamentoExcecao-master\ProjetoPessoa\obj\Debug\ProjetoAtleta.csproj.CoreCompileInputs.cache
